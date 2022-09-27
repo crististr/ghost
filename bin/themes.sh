@@ -1,7 +1,6 @@
 themes=(
 	casper
 	lyra
-	liebling
 )
 
 mkdir -p content/themes/
